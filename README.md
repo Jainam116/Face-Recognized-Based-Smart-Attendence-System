@@ -80,3 +80,7 @@ python main.py
 - Training images are saved securely
 - Face recognition model data is preserved for future use
 
+## 🤝 Made By
+
+- [Jainam Khara](https://github.com/Jainam116) 
+- [Sitanshu Pradhan](https://github.com/SitanshuPradhan)
